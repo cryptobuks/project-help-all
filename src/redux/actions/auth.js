@@ -3,7 +3,7 @@ import types from './types';
 import _ from 'lodash';
 import { Buffer } from 'buffer';
 import AUTH from '../../dummyDB/AUTH.js'
-const devIp = 'http://192.168.2.216';
+const devIp = '::serverIpAddress';
 const setPreferredLanguage = (lang) =>({
   type: types.CHANGE_LANGUAGE,
   lang,

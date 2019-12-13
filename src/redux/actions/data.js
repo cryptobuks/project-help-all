@@ -2,7 +2,7 @@
 import types from './types';
 import LISTING_TYPES from '../../dummyDB/LISTING_TYPES.js';
 import _ from 'lodash';
-const devIp = 'http://192.168.2.216';
+const devIp = '::serverIpAddress';
 
 const initStaticData = () => ({
   type: types.START_LOADING_DATA

@@ -1,8 +1,12 @@
 # Project-Help-All  - WIP
 
-An anonymous peer 2 peer donation platform where NGOs and patrons could request basic goods to be dropped-off at specific locations.
-Authentication codes will be distributed to NGOs and vetted patrons.
-People looking to help the less fortunate can use the app to find donation request.
+An anonymous peer 2 peer donation platform where NGOs and patrons can request basic goods to be dropped-off at specific locations.
+
+Who can request?
+- Authentication codes will be distributed to NGOs and vetted patrons.
+
+Who can donate?
+- People looking to help the less fortunate can use the app to answer donation request.
 
 
 Donation Categories:
@@ -13,9 +17,9 @@ Donation Categories:
 
 Details:
 - Arabic support.
-- User Location will not be saved anywhere.
+- Donor location will not be saved.
 - No registration required for donors.
-- Minimal on-boarding needed for patrons/ NGOs.
+- Minimal on-boarding needed for patrons/NGOs.
 - Google/Apple maps integration.
 - Uber integration.
 
